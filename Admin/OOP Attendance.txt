@@ -1,0 +1,42 @@
+21K3242 Abdullah Gohar Ali	P	P
+21K4516 Ahmed Mustafa	A	P
+21K3339 Aimal Amir	P	P
+21K3306 Asad Turab Moosvi	P	P
+21K3248 Ashhad Hassan Siddiqui	P	P
+21K3234 Dewan Kumar	P	P
+21K4600 Farhan Ahmed Shaikh	P	P
+21K3249 Fatima Ali	P	P
+21K3383 Jaleel Abbas	P	P
+21K3374 Khawaja Rabeet Tanveer	P	P
+21K3188 Mir Osama Ali	P	A
+21K3291 Mohammad Haris Kabir	P	A
+21K3308 Muhammad Amad	P	P
+21K4588 Muhammad Hamza Altaf	P	P
+21K3177 Muhammad Hassaan Shahid	P	A
+21K4929 Muhammad Khizar	A	A
+21K4827 Muhammad Mubin Farid	P	P
+21K4572 Muhammad Saad Dar	P	P
+21K3311 Muhammad Shaheer Khan	P	P
+21K4655 Muhammad Shaheer Luqman	P	A
+21K4867 Piyush Ramani	P	P
+21K3242 Abdullah Gohar Ali	P	A
+21K4516 Ahmed Mustafa	A	P
+21K3339 Aimal Amir	P	P
+21K3306 Asad Turab Moosvi	P	P
+21K3248 Ashhad Hassan Siddiqui	P	P
+21K3234 Dewan Kumar	P	P
+21K4600 Farhan Ahmed Shaikh	P	P
+21K3249 Fatima Ali	P	A
+21K3383 Jaleel Abbas	P	P
+21K3374 Khawaja Rabeet Tanveer	P	P
+21K3188 Mir Osama Ali	P	P
+21K3291 Mohammad Haris Kabir	P	P
+21K3308 Muhammad Amad	P	P
+21K4588 Muhammad Hamza Altaf	P	A
+21K3177 Muhammad Hassaan Shahid	P	A
+21K4929 Muhammad Khizar	A	A
+21K4827 Muhammad Mubin Farid	P	P
+21K4572 Muhammad Saad Dar	P	P
+21K3311 Muhammad Shaheer Khan	P	P
+21K4655 Muhammad Shaheer Luqman	P	P
+21K4867 Piyush Ramani	P	P

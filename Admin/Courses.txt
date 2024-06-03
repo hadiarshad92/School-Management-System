@@ -1,0 +1,5 @@
+CS-1004	Object Oriented Programming	3
+EE-1005	DLD	3
+MT-1006	DE	3
+SS-2003	PSt	3
+SS-1001	CPS	2
